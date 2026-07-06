@@ -1,4 +1,5 @@
 ## Hi there 👋
+I’m Nathan Kamgang, a mathematics major with a breadth of interests. Coding is among my favorites.
 
 <!--
 **Nathanknr/Nathanknr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
